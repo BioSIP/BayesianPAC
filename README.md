@@ -91,4 +91,4 @@ For full details, see the license description here:
 This repository is maintained by the **BioSIP research group**, University of Málaga.
 
 If you have questions, comments, or would like to collaborate, please contact us at:  
-📧 **biosip@uma.es**
+📧 **www.biosip.uma.es**

@@ -1,6 +1,4 @@
 # BayesianPAC
-Bayesian estimation of Phase-Amplitude Coupling
-# BayesianPAC
 
 This repository contains the core implementation of the **Bayesian Phase-Amplitude Coupling (PAC)** model presented in our manuscript on EEG-based analysis of reading difficulties in children. The approach uses probabilistic modeling to estimate directional connectivity between EEG channels while accounting for uncertainty in both data and inference.
 

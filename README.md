@@ -5,6 +5,7 @@ This repository contains the core implementation of the **Bayesian Phase-Amplitu
 The method has been developed and tested using EEG data collected under controlled auditory stimulation at 4.8, 16, and 40 Hz, with the aim of identifying functional coupling differences between typically developing children and those with reading difficulties.
 
 If you use this method, please, cite our paper:
+
 Diego Castillo-Barnes, Andrés Ortiz, Patricia Figueiredo, Nicolás J. Gallego-Molina.:"A Bayesian Framework for Phase-Amplitude Cross-Frequency Coupling Inference: Application to Reading Disability Detection". Expert Systems with Applications,
 2025. https://doi.org/10.1016/j.eswa.2025.128510
 
